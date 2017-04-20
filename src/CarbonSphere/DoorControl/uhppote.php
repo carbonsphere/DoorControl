@@ -1,6 +1,6 @@
 <?PHP
 
-
+namespace CarbonSphere\DoorControl;
 
 class uhppote {
 
