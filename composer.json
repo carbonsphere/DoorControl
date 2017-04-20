@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-0": {
-            "CarbonSphere\\DoorControl": "src"
+            "carbonsphere\\DoorControl": "src"
         }
     },
     "repositories": [
