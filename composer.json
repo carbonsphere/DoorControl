@@ -1,0 +1,26 @@
+{
+    "name": "carbonsphere/DoorControl-UHPPOTE",
+    "description": "UHPPOTE Class is a network communication module to UHPPOTE professional wiegand TCP IP controller board. ",
+    "authors": [
+        {
+            "name": "Carbon Sphere",
+            "email": "CarbonSphere@Gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.20"
+    },
+    "autoload": {
+        "psr-0": {
+            "DoorControl": "src/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/carbonsphere/DoorControl.git"
+        }
+    ]
+
+}
